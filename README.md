@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I am the Head of Engineering at [Preteckt](https://www.preteckt.com).
+I am the _Head of Engineering_ at [Preteckt](https://www.preteckt.com).
+🔮 We provide  (mostly heavy-duty) vehicle prognostics as a service using lots of sensor data and ML.
 
 - 📫 How to reach me: Message me on twitter [@bkmontgomery](https://twitter.com/bkmontgomery). My email is also on [my personal site](https://bradmontgomery.net).
 - 😄 Pronouns: He/Him/His
+- 🐍 Python is my go-to language of choice.
+- 🚌 I actually know very little about engines! (but I'm learning) 🚛
 - ⚡ Fun fact: 💙🚴
 
 <!--
