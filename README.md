@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am the _Head of Engineering_ at [Preteckt](https://www.preteckt.com).
-🔮 We provide  (mostly heavy-duty) vehicle prognostics as a service using lots of sensor data and ML.
+🔮 We provide vehicle prognostics as a service (mostly for heavy-duty vehicles 
+like buses and trucks) using lots of sensor data and ML.
 
 - 📫 How to reach me: Message me on twitter [@bkmontgomery](https://twitter.com/bkmontgomery). My email is also on [my personal site](https://bradmontgomery.net).
 - 😄 Pronouns: He/Him/His
