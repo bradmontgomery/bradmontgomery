@@ -1,13 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-I am the _Head of Engineering_ at [Preteckt](https://www.preteckt.com).
-🔮 We provide vehicle prognostics as a service (mostly for heavy-duty vehicles 
-like buses and trucks) using lots of sensor data and ML.
+I'm looking for my next adventure. I've worked for years as a Software Engineer in various domains, and more recently as an Engineering Manager (of sorts... I wore many 🎩's at my last job).
 
 - 📫 How to reach me: My personal email is my first name at [my personal site](https://bradmontgomery.net).
 - 😄 Pronouns: He/Him/His
 - 🐍 Python is my go-to language of choice.
-- 🚌 I actually know very little about engines! (but I'm learning) 🚛
 - ⚡ Fun fact: 💙🚴
 
 <!--
