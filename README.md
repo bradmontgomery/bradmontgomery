@@ -11,3 +11,4 @@ I've worked for years as a Software Engineer in various domains, spent a few mor
 - 📚 I teach programming, AI, and technical skills part-time at [Tech901](https://tech901.org)
 - 🏗️ ~~I'm~~ I was once a [Certified SAFe 6.0 Architect](https://www.credly.com/badges/65bc8600-ce21-495f-abe2-f6c68ffc28bd/public_url)
 - ⚡ Fun fact: 💖🚴
+- 🕸️I have a few silly side-projects: https://doesbradstillhaveajob.com | https://robot-overlord.news | https://brad.tips  
